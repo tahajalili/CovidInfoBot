@@ -8,7 +8,7 @@ import requests
 import time
 
 
-bot = telebot.TeleBot("1143132998:AAG6_b3J83aJNTokE1D4bkKtkYzujSa1jQs")
+bot = telebot.TeleBot("TOKEN")
 
 #global var
 bot_id = '@coronavirus_stat_info_bot'
